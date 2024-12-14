@@ -17,9 +17,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 (ii)
 
+
 1. Import numpy as np and from scipy.linalg import lu_factor, lu_solve
+
 2.Using np.array store the matrix in variable matrix
+
 3.Using lu_solve(), we can find the LU decomposition of matrix 
+
 4.Using lu_solve(), we can find the solution to linear equation Ax=b where A is matrix,X is unknown vector, b is the right hand-side vector
 
 
